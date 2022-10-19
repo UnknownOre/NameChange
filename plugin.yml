@@ -3,5 +3,5 @@ main: UnknownOre\NameChange\NameChange
 version: 1.0.0
 api: [4.0.0]
 load: STARTUP
-author: Ali
+author: UnknownOre (Ali)
 description: account for people changing their xbox names
