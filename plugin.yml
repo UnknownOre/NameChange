@@ -1,0 +1,7 @@
+name: NameChange
+main: Ali\NameChange\NameChange
+version: 1.0.0
+api: [4.0.0]
+load: STARTUP
+author: Ali
+description: account for people changing their xbox names
