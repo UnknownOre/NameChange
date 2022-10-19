@@ -1,10 +1,10 @@
 <?php
 declare(strict_types=1);
 
-namespace Ali\NameChange;
+namespace UnknownOre\NameChange;
 
-use Ali\NameChange\event\PlayerNameChangeEvent;
-use Ali\NameChange\utils\PlayerUtils;
+use UnknownOre\NameChange\event\PlayerNameChangeEvent;
+use UnknownOre\NameChange\utils\PlayerUtils;
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\plugin\PluginBase;

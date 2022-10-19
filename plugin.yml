@@ -1,5 +1,5 @@
 name: NameChange
-main: Ali\NameChange\NameChange
+main: UnknownOre\NameChange\NameChange
 version: 1.0.0
 api: [4.0.0]
 load: STARTUP

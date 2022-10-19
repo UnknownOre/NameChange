@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Ali\NameChange\event;
+namespace UnknownOre\NameChange\event;
 
 use pocketmine\event\Event;
 use pocketmine\player\Player;
